@@ -5,4 +5,4 @@ Similar to Google's Keep app.
 
 
 
-Created this app after being inroduced to the fundamentals of React developement.
+Created this app after being introduced to the fundamentals of React developement.
